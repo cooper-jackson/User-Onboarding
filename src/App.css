@@ -1,0 +1,20 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.userCard {
+  border: white solid 1px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.userCard * {
+  margin: 5px;
+}

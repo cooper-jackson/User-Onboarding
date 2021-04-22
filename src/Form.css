@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  /* justify-content: space-between; */
+  margin: auto;
+}
+
+.submit-button {
+  max-width: 50%;
+  margin: auto;
+}
+
+.error-container{
+    font-size: .5em;
+    margin: auto;
+}

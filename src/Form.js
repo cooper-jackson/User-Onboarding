@@ -93,7 +93,7 @@ export default function Form(){
                         onChange={onChange}
                     />
                 </div>
-                <button className="submit-button" disabled={disabled}>Submit</button>
+                <button id="submit-button" className="submit-button" disabled={disabled}>Submit</button>
             </form>
 
             <ul className="memberList">
